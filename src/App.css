@@ -27,31 +27,40 @@
 .App-link {
   color: #61dafb;
 }
+/* .sectionCard{
+  padding:10px;
+  margin: 10px;
+} */
 .cont{
   padding:40px;
-  margin:20px
+  margin:40px
 }
 .section1{
   background-color:cornflowerblue;
-  padding: '330px';
+  padding: 10;
   color:white;
-  margin:'130px';
-  border-radius: '20px';
+  /* margin-left:20px; */
+  border-radius: 20px;
+  
 }
 
 
 .section1 h1{
-  color:gainsboro
+  color:gainsboro;
+  padding:10px;
+  margin:10px
 }
 .section1 p{
   justify-content: center;
-  margin:'40px';
-  color:white
+  margin:10px;
+  color:white;
+  padding:10px;
 }
 .section2{
-  background-color:gray;
-  padding: '60px';
-  margin: '50px';
+  background-color:wheat;
+  padding: 30px;
+  /* margin-left: 20px; */
+  border-radius: 20px;
 }
 
 .section2 p{
@@ -59,12 +68,14 @@
 }
 
 .section2 h1{
-  color:plum
+  color:skyblue
 }
 .section{
-  padding:40px;
-  margin:20px;
-  background-color:gray;
+  padding:20px;
+  /* margin:10px; */
+  background-color:black
+
+
 }
 
 
