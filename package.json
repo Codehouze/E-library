@@ -1,5 +1,6 @@
 {
-  "name": "order_summary",
+  "homepage": "http://codehouze.github.io/Ybuck_library",
+  "name": "E-library",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
