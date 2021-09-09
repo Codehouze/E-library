@@ -169,7 +169,9 @@ function App() {
               @bookhub
             </a>
           </div>
-          <div>paystack paypal Interswitch</div>
+          <div><a><img src='/' /></a></div>
+          <div> <a><img src='/' /></a>paypal</div>
+          <div><a><img src='/' /></a>Interswitch</div>
         </Col>
         <Col>
           <div>
